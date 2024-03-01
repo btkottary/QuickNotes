@@ -111,3 +111,6 @@ form.create-note button:hover{
 
 }
 
+.title {
+  font-weight: bold;
+}
