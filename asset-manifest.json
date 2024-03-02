@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/quickNotes/static/js/main.6302d31e.js",
+    "index.html": "/quickNotes/index.html",
+    "main.6302d31e.js.map": "/quickNotes/static/js/main.6302d31e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6302d31e.js"
+  ]
+}
